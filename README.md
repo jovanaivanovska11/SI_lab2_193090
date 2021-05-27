@@ -16,5 +16,9 @@ Control Flow Graph
 
 ![Multiple condition](https://user-images.githubusercontent.com/79019353/119894841-65659b00-bf3d-11eb-8c99-76e96a03d743.png)
 
+Тест случаи според критериумот Every Path
+
+![Every branch](https://user-images.githubusercontent.com/79019353/119894948-8a5a0e00-bf3d-11eb-9b06-4ce5c15196bc.png)
+
 
 
