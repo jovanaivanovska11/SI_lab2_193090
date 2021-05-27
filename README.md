@@ -20,7 +20,9 @@ Control Flow Graph
 
 ![Every branch](https://user-images.githubusercontent.com/79019353/119894948-8a5a0e00-bf3d-11eb-9b06-4ce5c15196bc.png)
 
-Oбјаснување за Multuo==iple condition
+Oбјаснување за Multiple condition
+
+
 
 
 
