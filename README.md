@@ -12,7 +12,9 @@ Control Flow Graph
 
 Цикломатската комплексност на овој код е 8. Истата ја добив преку формулата број на ребра - број на јазли + 2, односно 26-20+2=8.
 
-Тест случаи според критериумот Every Path
+Тест случаи според критериумот Multiple condition
+
+![Multiple condition](https://user-images.githubusercontent.com/79019353/119894841-65659b00-bf3d-11eb-8c99-76e96a03d743.png)
 
 
 
